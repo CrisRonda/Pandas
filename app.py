@@ -23,6 +23,7 @@ df_data = df_data.replace("NR", "0")
 df_data['Wsets'] = df_data.Wsets.astype(int)
 df_data['WRank'] = df_data.WRank.astype(int)
 df_data.dropna(how="any", inplace=True)
+print(df_data.dtypes)
 
 # Estadisticas
-print(df_data.describe(include=[int]).transpose())
+# print(df_data.describe(include=[int]).transpose())
