@@ -12,3 +12,8 @@ Puedes descargar los datos [aquí](https://www.kaggle.com/jordangoblet/atp-tour-
 
 - [iloc](./docs/iloc.md "Ver iloc")
 - [loc](./docs/loc.md "Ver loc")
+- [Borrar columnas](./docs/delete_rows.md "Ver md")
+- [order](./docs/order.md "Ver order")
+- [Excel](./docs/read_excel.md "Ver excel")
+- [Condicionales](./docs/conditionals.md "Ver excel")
+- [Export to CVS](./docs/export_csv.md "Ver export.md")
