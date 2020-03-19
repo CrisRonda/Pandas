@@ -12,6 +12,7 @@ Puedes descargar el dataset de prueba para el ejercicio para `tyme.py` [aquí](h
 
 Puedes descargar el dataset de prueba para el ejercicio para `tyme_operations.py` [aquí](https://drive.google.com/file/d/1LnR6VjNs4DroMJFDbAqQK3C4d3-iGQdu/view "Ir a Google Drive")
 
+Ejemplo del uso de Google Colaboratory [aquí](https://colab.research.google.com/drive/1BPlbuFy2UOHHRl4o4kocZHkSsuGj3Fyc "Ir a Colab")
 ## Screenshots
 
 ## Algunas anotaciones
@@ -25,3 +26,6 @@ Puedes descargar el dataset de prueba para el ejercicio para `tyme_operations.py
 - [Export to CVS](./docs/export_csv.md "Ver export.md")
 - [Groupby](./docs/group_by.md "Ver group_by.md")
 - [between_time](./docs/filter_date.md "Ver group_by.md")
+- [assing](./docs/add_column.md "Ver assign para agregar columnas")
+- [Primero pasos con Google Colab](./docs/colab.md "Ver primeros pasos en Colab")
+  
